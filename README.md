@@ -28,3 +28,8 @@ Developed dynamic, interactive dashboards to track Key Performance Indicators (K
   * Attrition by Department & Job Role (Bar Charts)
   * Job Satisfaction vs. Attrition (Matrix / Heatmaps)
   * Monthly Income vs. Attrition by Gender (Scatter Plot / Line Charts)
+ 
+
+
+<img width="1000" height="600" alt="Figure_1g" src="https://github.com/user-attachments/assets/e0b8b408-dc26-439a-b6a5-85015d8b1da3" />
+
