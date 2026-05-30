@@ -35,5 +35,7 @@ Developed dynamic, interactive dashboards to track Key Performance Indicators (K
 
 
 
-project ibm.pbix
-bd9f5905-20da-4fb8-8dcf-f1020171d5cf
+<p align="center">
+  <img src="hr_dashboard.png" alt="HR Analytics Power BI Dashboard" width="800">
+</p>
+
