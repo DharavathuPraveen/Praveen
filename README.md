@@ -36,8 +36,6 @@ Developed dynamic, interactive dashboards to track Key Performance Indicators (K
 
 
 
-<p align="center">
-  <img src="hr_dashboard.png" alt="HR Analytics Power BI Dashboard" width="800">
-</p>
 
+hr_dashboard.png.png
 
