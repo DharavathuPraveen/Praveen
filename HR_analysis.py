@@ -20,3 +20,4 @@ plt.xlabel('Salary')
 plt.ylabel('Count')
 plt.savefig('salary_distribution.png')
 plt.show()
+
